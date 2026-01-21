@@ -20,23 +20,23 @@ I build intelligent, data-driven systems that automate complex workflows and sol
 
 #### 📂 [Python Automation & Log System](https://github.com/Bhavesh112004/Marvellous-Python-Assignments/tree/main/Assignment_20)
 *A robust system-level tool for periodic directory maintenance and audit logging.*
-Innovation:** Implemented **MD5 checksum-based** detection using `hashlib` to ensure 100% accuracy in finding duplicates[cite: 27, 31].
-Automation:** Integrated **smtplib** for real-time audit reports and the `schedule` library for periodic execution[cite: 29, 30].
+Innovation:** Implemented **MD5 checksum-based** detection using `hashlib` to ensure 100% accuracy in finding duplicates.
+Automation:** Integrated **smtplib** for real-time audit reports and the `schedule` library for periodic execution.
 
 #### 📂 [AI Health & Intelligence Diagnostics](https://github.com/Bhavesh112004/Case-Studies)
 *A comprehensive suite of 20+ ML models targeting high-impact sectors like healthcare and analytics.*
-Medical Projects:** Developed **Diabetes Detection** and **Breast Cancer Detection** models using SVM and Logistic Regression[cite: 36, 37].
-Predictive Analytics:** Built survival predictors and price estimation models using Decision Trees and Random Forest[cite: 35, 40].
+Medical Projects:** Developed **Diabetes Detection** and **Breast Cancer Detection** models using SVM and Logistic Regression.
+Predictive Analytics:** Built survival predictors and price estimation models using Decision Trees and Random Forest.
 
 ---
 
 ### 📊 Professional Metrics
-Project Experience:** 20+ Machine Learning & Automation projects[cite: 46].
-Academic Foundation:** B.E. in Computer Engineering from SPPU[cite: 8].
-Technical Focus:** Predictive modeling, automation scripting, and neural network architecture[cite: 5, 17].
+Project Experience:** 20+ Machine Learning & Automation projects.
+Academic Foundation:** B.E. in Computer Engineering from SPPU.
+Technical Focus:** Predictive modeling, automation scripting, and neural network architecture.
 
 ---
 
 ### 📫 Let's Collaborate
-LinkedIn:** [linkedin.com/in/bhavesh-ahire](https://www.linkedin.com/in/bhavesh-ahire-800a302a6/) [cite: 50]
-Email:** [bhaveshahire.nbnstic.comp@gmail.com](mailto:bhaveshahire.nbnstic.comp@gmail.com) [cite: 3]
+LinkedIn:** [linkedin.com/in/bhavesh-ahire](https://www.linkedin.com/in/bhavesh-ahire-800a302a6/) 
+Email:** [bhaveshahire.nbnstic.comp@gmail.com](mailto:bhaveshahire.nbnstic.comp@gmail.com) 
