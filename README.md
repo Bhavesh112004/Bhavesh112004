@@ -31,7 +31,7 @@ Predictive Analytics:** Built survival predictors and price estimation models us
 ---
 
 ### 📊 Professional Metrics
-Project Experience:** 20+ Machine Learning & Automation projects.
+Project Experience:** 10+ Machine Learning & Automation projects.
 Academic Foundation:** B.E. in Computer Engineering from SPPU.
 Technical Focus:** Predictive modeling, automation scripting, and neural network architecture.
 
